@@ -2,7 +2,7 @@
 // @name         Jira Branchname Getter
 // @namespace    https://jira.youkon-agency.com/
 // @version      0.1
-// @description  try to take over the world!
+// @description  tampermonkey userscript to display a button in jira which creates a valid git branchname and copies it to the clipboard
 // @author       Lorenz Kirnbauer
 // @match        https://jira.youkon-agency.com/browse/CNNKN-*
 // ==/UserScript==
